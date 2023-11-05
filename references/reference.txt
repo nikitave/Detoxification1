@@ -1,0 +1,3 @@
+https://huggingface.co/cointegrated/rubert-tiny-toxicity
+https://www.sbert.net/docs/usage/semantic_textual_similarity.html
+https://huggingface.co/t5-base
